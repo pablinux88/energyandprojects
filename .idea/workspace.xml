@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0e66f59-16f6-484d-956e-2a62c077913c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aviso.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585155108708</updated>
       <workItem from="1585155113233" duration="7271000" />
-      <workItem from="1585585290072" duration="5969000" />
+      <workItem from="1585585290072" duration="6858000" />
+      <workItem from="1586812459947" duration="10818000" />
     </task>
     <servers />
   </component>
@@ -58,10 +60,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1585585330020">
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1586812461118">
       <screen x="0" y="23" width="1920" height="1010" />
     </state>
-    <state x="653" y="361" key="com.intellij.ide.util.TipDialog/0.23.1920.1010@0.23.1920.1010" timestamp="1585585330020" />
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog/0.23.1920.1010@0.23.1920.1010" timestamp="1586812461118" />
     <state x="653" y="362" key="com.intellij.ide.util.TipDialog/0.23.1920.1013@0.23.1920.1013" timestamp="1585155113098" />
+    <state x="625" y="246" width="670" height="676" key="search.everywhere.popup" timestamp="1586822371531">
+      <screen x="0" y="23" width="1920" height="1010" />
+    </state>
+    <state x="625" y="246" width="670" height="676" key="search.everywhere.popup/0.23.1920.1010@0.23.1920.1010" timestamp="1586822371531" />
   </component>
 </project>
