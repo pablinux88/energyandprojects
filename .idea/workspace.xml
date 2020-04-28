@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0e66f59-16f6-484d-956e-2a62c077913c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Copia de hero-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aviso.html" beforeDir="false" afterPath="$PROJECT_DIR$/aviso.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Com1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Fam1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Familiar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/iphone-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/l1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/plants-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shopping-business-money-pay-50987.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-03.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +67,9 @@
       <workItem from="1585585290072" duration="6858000" />
       <workItem from="1586812459947" duration="11210000" />
       <workItem from="1587132063445" duration="5238000" />
+      <workItem from="1587427839166" duration="201000" />
+      <workItem from="1587565051978" duration="1530000" />
+      <workItem from="1588081267081" duration="11867000" />
     </task>
     <servers />
   </component>
@@ -61,11 +77,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1587132072888">
-      <screen x="0" y="23" width="1920" height="1010" />
+    <state x="548" y="193" key="#CLI_Interpreters" timestamp="1588083998421">
+      <screen x="0" y="23" width="1920" height="1015" />
     </state>
-    <state x="653" y="361" key="com.intellij.ide.util.TipDialog/0.23.1920.1010@0.23.1920.1010" timestamp="1587132072888" />
+    <state x="548" y="193" key="#CLI_Interpreters/0.23.1920.1015@0.23.1920.1015" timestamp="1588083998421" />
+    <state x="651" y="116" key="#PHP" timestamp="1588084021627">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="651" y="116" key="#PHP/0.23.1920.1015@0.23.1920.1015" timestamp="1588084021627" />
+    <state x="653" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1588081316449">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog/0.23.1920.1010@0.23.1920.1010" timestamp="1587565088836" />
     <state x="653" y="362" key="com.intellij.ide.util.TipDialog/0.23.1920.1013@0.23.1920.1013" timestamp="1585155113098" />
+    <state x="653" y="363" key="com.intellij.ide.util.TipDialog/0.23.1920.1015@0.23.1920.1015" timestamp="1588081316449" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1588083587598">
+      <screen x="0" y="23" width="1920" height="1015" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1920.1015@0.23.1920.1015" timestamp="1588083587598" />
     <state x="625" y="246" width="670" height="676" key="search.everywhere.popup" timestamp="1586822371531">
       <screen x="0" y="23" width="1920" height="1010" />
     </state>
